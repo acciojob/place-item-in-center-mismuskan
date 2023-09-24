@@ -3,7 +3,6 @@
 .holder{
 	width:100hv;
 	height:100wv;
-	display:flex;
 }
 .item-1{
 	display:flex;
